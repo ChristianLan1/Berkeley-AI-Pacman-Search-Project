@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<wordlist>
+  <word id="0">
+    <wordName>defaultWord</wordName>
+    <wordMeaning>Auto-generated word to initialize a dictionary</wordMeaning>
+  </word>
+  <word id="2">
+    <wordName>add</wordName>
+    <wordMeaning>plus</wordMeaning>
+  </word>
+  <word id="2">
+    <wordName>delete</wordName>
+    <wordMeaning>ff</wordMeaning>
+  </word>
+  <word id="3">
+    <wordName>search</wordName>
+    <wordMeaning>look up</wordMeaning>
+  </word>
+</wordlist>
